@@ -1,4 +1,4 @@
-# Focalboard-ToolManajemenProyek
+# Focalboard-Tool Manajemen Proyek
 
 > Eriyansyah Yusuf S - 19081010060
 
@@ -22,28 +22,21 @@ Server multi-pengguna mandiri yang digunakan untuk pengembangan pribadi. Downloa
 
 ### 1. Instalasi Focalboard di Windows(Microsoft Store)
 Anda dapat menginstal Focalboard di microsoft store, caranya buka microsoft store>*search* Focalboard>lalu klik *Get*. Tunggu sampai proses *download*nya lalu klik *open* untuk membuka app.
-![alt text](https://github.com/thomasndrw/Focalboard-ToolManajemenProyek/blob/main/focalboard/focalboard1.jpeg)
 
-### 2. Membuat proyek pertama
+### 2. Membuat Proyek
 Setelah instalasi app Focalboard selesai, anda di tampilkan halaman awal Focalboard dan bisa langsung *create a board* untuk membuat proyek. Anda bisa membuat proyek pertama dalam bentuk kosongan "*create empty board*" atau menggunakan template "*use this template*" yang tersedia.
-![alt text](https://github.com/thomasndrw/Focalboard-ToolManajemenProyek/blob/main/focalboard/focalboard2.jpeg)
 
-### 3. Menampilkan proyek berdasarkan status
+### 3. Menampilkan Proyek
 Disini memilih menggunakan template, berikut tampilannya. Untuk fitur pertama yang perlu anda ketahui adalah *properties* dapat mengatur view *card* proyek sesuai dengan kategori yang diperlukan. Pada card anda dapat melakukan *drag and drop* sesuai dengan keinginan dan progres proyek.
-![alt text](https://github.com/thomasndrw/Focalboard-ToolManajemenProyek/blob/main/focalboard/focalboard3.jpeg)
 
-### 4. Mengatur tampilan proyek berdasarkan urutan
+### 4. Mengatur Tampilan Proyek
 Pada lembar kerja ini juga terdapat fitur *sort* yang berguna untuk mengurutkan *card* proyek yang tersedia.
-![alt text](https://github.com/thomasndrw/Focalboard-ToolManajemenProyek/blob/main/focalboard/focalboard4.jpeg)
 
-### 5. Membuat task baru
+### 5. Membuat tugas Baru
 Untuk dapat menambah *task* pada lembar kerja proyek, anda bisa klik *+new* lalu akan muncul *popup form card*. Pada *card* tersebut anda bisa menuliskan judul, status, prioritas bahkan tanggal jatuh tempo *task*.
-![alt text](https://github.com/thomasndrw/Focalboard-ToolManajemenProyek/blob/main/focalboard/focalboard5.jpeg)
 
-### 6. Berbagi link
+### 6. Berbagi Link Kolaborasi
 Pada Focalboard ini anda bisa melakukan kolaborasi bersama rekan dengan membagikan lembar progress anda. Untuk membagikannya cukup mudah klik tombol *share* pojok kanan atas>lalu *copy* linkya dan bagikan ke rekan anda.
-![alt text](https://github.com/thomasndrw/Focalboard-ToolManajemenProyek/blob/main/focalboard/focalboard6.jpeg)
 
 ### 7. Setting
 Pada *setting* Focalboard anda bisa melakukan import ke Trello, Asana, Notion, dsb. Dapat melakukan export, mengubah bahasa app, mengatur tema app yang dipakai.
-![alt text](https://github.com/thomasndrw/Focalboard-ToolManajemenProyek/blob/main/focalboard/focalboard8.jpeg)
