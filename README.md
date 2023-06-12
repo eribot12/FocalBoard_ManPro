@@ -1,6 +1,6 @@
-# Focalboard-Tool Manajemen Proyek
+# Focalboard - Tool Manajemen Proyek
 
-> Eriyansyah Yusuf S - 19081010060
+> Eriyansyah Yusuf Suwandana - 19081010060
 
 ## Tentang Focalboard
 Focalboard adalah sebuah aplikasi perangkat lunak yang digunakan untuk mengorganisir ide, tugas, dan proyek secara visual. Focalboard menawarkan papan virtual yang dapat digunakan untuk membuat catatan, daftar tugas, jadwal, dan kolaborasi dalam sebuah tim.
